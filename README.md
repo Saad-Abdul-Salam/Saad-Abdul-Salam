@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1a1025)
-![CGPA](https://img.shields.io/badge/CGPA-7.61%2F10-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1025)
+![CGPA](https://img.shields.io/badge/CGPA-7.69%2F10-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1025)
 ![Location](https://img.shields.io/badge/Kerala-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1025)
 
 <br/>
@@ -219,7 +219,7 @@ through prior employment.
 
 | Recognition | Details |
 |---|---|
-| **B.Tech CGPA** | 7.61 / 10 — College of Engineering, Trikaripur (KTU) |
+| **B.Tech CGPA** | 7.69 / 10 — College of Engineering, Trikaripur (KTU) |
 | **Higher Secondary (CBSE)** | 92.58% — E.M.S. Smaraka Govt. HSS Pappinissery |
 | **INQUA '25** | Delivered a real-time CV project (Gesture-based RPS) within a competitive event timeline |
 | **AR Cloud Seminar** | Presented on distributed spatial mapping and cloud-scale AR infrastructure |
